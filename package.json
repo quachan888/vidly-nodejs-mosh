@@ -12,7 +12,10 @@
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.3",
+        "fawn": "^2.1.5",
         "joi": "^17.6.0",
+        "joi-objectid": "^4.0.2",
+        "moment": "^2.29.2",
         "mongoose": "^5.0.2",
         "morgan": "^1.10.0"
     }
